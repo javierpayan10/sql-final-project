@@ -21,4 +21,4 @@ Conectar a una base de datos real y realizar análisis exploratorios que ayuden 
 - Visualización de resultados
 - Interpretación de métricas relevantes
 
-## 📁 Estructura del repositorio
+
